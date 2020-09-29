@@ -10,6 +10,8 @@ Show off your projects built using Tabulator
   * [React Tabulator](https://github.com/ngduc/react-tabulator) - A React component for Tabulator
   * [Vue Taulator](https://vue-tabulator.netlify.app/) - A Vue component for Tabulator
   * [Orgenic UI](https://orgenic.org/) - Ready-to-use web components for creating User Experience driven HTML5 applications
+  * [SAP UI5 Web Components](https://sap.github.io/ui5-webcomponents/) - Mature, supported by SAP collection of web components, can benefit from Tabulator.
+  * [Lion web components](https://github.com/ing-bank/lion) - Modern collection of web components, supported by ING Bank, can benefir from Tabulator.
   * [Panel](https://awesome-panel.readthedocs.io/en/latest/packages/awesome-panel-extensions/index.html#tabulator) - A widget for the Python based Panel dashboard
   
 **Language Ports** - Bringing Tabulator Into New Languages
